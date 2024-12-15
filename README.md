@@ -118,36 +118,5 @@
         2024-12-15 16:51:24  [INFO] [LM STUDIO SERVER] Client disconnected. Stopping generation..
 
 
-File
-
-llama-3.2-1b-instruct-q8_0.gguf
-
-Format
-
-GGUF
-
-Quantization
-
-Q8_0
-
-Arch
-
-llama
-
-Domain
-
-llm
-
-
-This model's API identifier
-
-llama-3.2-1b-instruct
-
-✅ The local server is reachable at this address
-
-http://127.0.0.1:1234
-
-
-
 
 
