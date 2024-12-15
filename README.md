@@ -34,9 +34,10 @@
     ```
 4. Start InfluxDB:
   
-   ```bash
+    ```bash
   cd /path/to/influxdb && ./influxd
-   ```
+    ```
+
 ### LMStudio Setup:
 
 1. Follow the [LMStudio AI installation guide](https://lmstudio.ai/) to set up the environment and ensure all dependencies are installed.
