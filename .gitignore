@@ -1,0 +1,46 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+.venv/
+env/
+venv/
+
+# .env files for storing sensitive information (API tokens, DB credentials)
+.env
+
+# IDE/editor configuration files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+
+# Distribution/packaging directories
+dist/
+build/
+*.egg-info/
+
+# Python wheels (common in package distribution)
+*.whl
+
+# InfluxDB specific files
+influxdb_data/
+
+# Garmin and LMStudio specific config files (if applicable)
+garmin_config.json
+lmstudio_config.json
+
+# Local test files or output files (if any)
+test_results/
+
+# Backup or dump files
+*.bak
+*.dump
