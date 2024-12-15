@@ -32,11 +32,13 @@
     ```bash
     pip install influxdb-client
     ```
+
 4. Start InfluxDB:
-  
+
     ```bash
-  cd /path/to/influxdb && ./influxd
+    cd /path/to/influxdb && ./influxd
     ```
+
 
 ### LMStudio Setup:
 
@@ -68,7 +70,7 @@
     ```bash
     python your_script.py
     ```
-### Devloper Logs:
+### Sample Devloper Logs:
 
         If there is any Garmin health data, it will be sent to LM Studio for evaluation and recommendations.
         2024-12-15 16:03:24  [INFO] [LM STUDIO SERVER] Success! HTTP server listening on port 1234
